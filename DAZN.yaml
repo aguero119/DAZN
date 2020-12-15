@@ -1,6 +1,5 @@
 payload:  
   # > DAZN
-  # - User-Agent,Argo*
   - DOMAIN-SUFFIX,uefa.tv
   - DOMAIN-SUFFIX,control.kochava.com
   - DOMAIN-SUFFIX,dc2-vodhls-perform.secure.footprint.net

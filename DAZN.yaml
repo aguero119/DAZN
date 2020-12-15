@@ -1,22 +1,14 @@
-payload: 
-- DOMAIN-SUFFIX,dca-ll-voddazn-dznvodjp.s.llnwi.net
-- DOMAIN-SUFFIX,dca-ll-livedazn-dznlivejp.s.llnwi.net
-- DOMAIN-KEYWORD,dazn
-- DOMAIN-SUFFIX,dc1llvoddazn-ic-9a110200-0182d7-dznvodjp.s.loris.llnwd.net
-- DOMAIN-SUFFIX,dc1llvod2dazn-ic-9a110200-053ffb-dznvodjp.s.loris.llnwd.net
-- DOMAIN-KEYWORD,voddazn
-- DOMAIN-SUFFIX,dazn.com
-- DOMAIN-SUFFIX,favourites-prod.api.dazn.com
-- DOMAIN-SUFFIX,dazn-api.com
-- DOMAIN-SUFFIX,dazndn.com
-- DOMAIN-SUFFIX,indazn.com
-- DOMAIN-SUFFIX,indaznlab.com
-- DOMAIN-SUFFIX,control.kochava.com
-- DOMAIN-SUFFIX,dc2-vodhls-perform.secure.footprint.net
-- DOMAIN-SUFFIX,s.yimg.jp
-- DOMAIN-SUFFIX,vjs.zencdn.net
-- DOMAIN-SUFFIX,perfops.doracdn.com
-- DOMAIN-SUFFIX,yahoo.co.jp
-- DOMAIN-SUFFIX,control.kochava.com
-- DOMAIN-SUFFIX,amplify.outbrain.com
-- DOMAIN-SUFFIX,bluekai.com
+payload:  
+  # > DAZN
+  # - User-Agent,Argo*
+  - DOMAIN-SUFFIX,uefa.tv
+  - DOMAIN-SUFFIX,control.kochava.com
+  - DOMAIN-SUFFIX,dc2-vodhls-perform.secure.footprint.net
+  - DOMAIN-SUFFIX,s.yimg.jp
+  - DOMAIN-SUFFIX,vjs.zencdn.net
+  - DOMAIN-SUFFIX,perfops.doracdn.com
+  - DOMAIN-SUFFIX,yahoo.co.jp
+  - DOMAIN-SUFFIX,amplify.outbrain.com
+  - DOMAIN-SUFFIX,bluekai.com
+  - DOMAIN-KEYWORD,dazn
+  - DOMAIN-KEYWORD,uefa

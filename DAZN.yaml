@@ -44,7 +44,6 @@ payload:
   - DOMAIN-SUFFIX,intercom.io  
   - DOMAIN-SUFFIX,cws.conviva.com
   - DOMAIN-SUFFIX,sentry.io
-  - DOMAIN-SUFFIX,api.hivestreaming.com
   - DOMAIN-KEYWORD,dazn
   - DOMAIN-KEYWORD,uefa
 

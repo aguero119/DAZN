@@ -44,8 +44,8 @@ payload:
   - DOMAIN-SUFFIX,intercom.io  
   - DOMAIN-SUFFIX,cws.conviva.com
   - DOMAIN-SUFFIX,sentry.io
-  - DOMAIN-SUFFIX,players.brightcove.net
-  - DOMAIN-SUFFIX,edge.api.brightcove.com
+  - DOMAIN,players.brightcove.net
+  - DOMAIN,edge.api.brightcove.com
   - DOMAIN-KEYWORD,dazn
   - DOMAIN-KEYWORD,uefa
 

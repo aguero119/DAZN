@@ -1,6 +1,5 @@
 payload:  
   # > DAZN
-  - DOMAIN-SUFFIX,uefa.tv
   - DOMAIN-SUFFIX,control.kochava.com
   - DOMAIN-SUFFIX,dc2-vodhls-perform.secure.footprint.net
   - DOMAIN-SUFFIX,s.yimg.jp
@@ -47,7 +46,7 @@ payload:
   - DOMAIN,players.brightcove.net
   - DOMAIN,edge.api.brightcove.com
   - DOMAIN-KEYWORD,dazn
-  - DOMAIN-KEYWORD,uefa
+
 
 
 

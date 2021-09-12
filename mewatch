@@ -1,0 +1,6 @@
+payload:  
+  # > mewatch
+  - DOMAIN-SUFFIX,omtrdc.net
+  - DOMAIN-SUFFIX,mediacorp.sg
+  - DOMAIN-SUFFIX,mewatch.sg
+  - DOMAIN-SUFFIX,sensic.net
